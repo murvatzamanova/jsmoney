@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: rgb(160, 235, 235);
+}
+
+/* #search{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.img{
+    width: 200px;
+    height: 100px;
+} */
+
+
+
+#pulmiqdarr {
+    margin-bottom: 10px;
+}
+#pulsekilleri {
+    display: flex;
+    flex-wrap: wrap;
+}
+.pulsekili {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
